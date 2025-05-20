@@ -1,0 +1,6 @@
+﻿Samples,Pt_wt,Pt_size,Surface_area,N_doped,pH,Current_Density,Overpotential
+Pt/C Control-1,11.6,1,488.9,8.2,0.3,10,36.3
+Pt/C Control-1,11.6,1,488.9,8.2,0.3,20,45
+Pt/C Control-1,11.6,1,488.9,8.2,0.3,40,57.7
+Pt/C Control-1,11.6,1,488.9,8.2,0.3,50,66.3
+Pt/C Control-1,11.6,1,488.9,8.2,0.3,100,103

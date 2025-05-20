@@ -1,0 +1,6 @@
+﻿Samples,Pt_wt,Pt_size,Surface_area,N_doped,pH,Current_Density,Overpotential
+1Pt@NMC,4.6,0.88,640.8,6.3,0.3,10,43
+1Pt@NMC,4.6,0.88,640.8,6.3,0.3,20,57
+1Pt@NMC,4.6,0.88,640.8,6.3,0.3,40,82.3
+1Pt@NMC,4.6,0.88,640.8,6.3,0.3,50,94.3
+1Pt@NMC,4.6,0.88,640.8,6.3,0.3,100,155.7
